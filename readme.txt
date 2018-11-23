@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Git has a mutable index called stage.
-Greating a new branch is quick.
+Greating a new branch is quick & simple.
