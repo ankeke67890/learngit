@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git has a mutable index called stage.
 Greating a new branch is quick and simple.
-
+a new branch no fast-merge.
